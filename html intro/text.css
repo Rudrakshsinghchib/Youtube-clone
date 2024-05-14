@@ -1,0 +1,49 @@
+p {
+    font-family:ojuju;
+
+}
+.heading{
+    /* font-family: arial; */
+    font-size:26px;
+    font-weight:bold;
+    /* font-style:oblique; */
+    width: 500px;
+    margin-bottom:0;
+    line-height: 25px;
+}
+
+.stats {
+    /* font-family: arial; */
+    font-size:15px;
+    color:grey;
+     margin-top:7px;
+}
+
+.author {
+
+   /* font-family: arial; */
+    color:grey;
+
+}
+.peak{
+    /* font-family: arial; */
+    color:grey;
+    line-height:24px;
+}
+
+.apple {
+    background-color: rgb(242, 51, 51);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:5px;
+    padding-right: 5px;
+}
+
+.t:hover{
+    cursor:pointer;
+
+}
+.t:hover{
+    text-decoration: underline;
+}
